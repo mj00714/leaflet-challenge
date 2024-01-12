@@ -1,4 +1,4 @@
-// store our API endpoint url
+// store our API endpoint url for earthquakes over 2.5 mag, past 7 days
 let url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojson";
 
 // perform the get request that queries the url
